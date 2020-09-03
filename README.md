@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-안녕하세요 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyungju&count_private=true)
+![HyungJu Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungju&theme=shades-of-purple&count_private=true) 
+![HyungJu Stat](https://github-readme-stats.vercel.app/api?username=hyungju&count_private=true&theme=shades-of-purple)
