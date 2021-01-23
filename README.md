@@ -62,8 +62,8 @@ I am..
 </table>
 
 ## Projects
-* [Forte API](https://team-crescendo.me)@Team Crescendo
-* [myWallets](https://mywallets.xyz) Backend@Croco
+* [Forte API](https://team-crescendo.me) @ Team Crescendo
+* [myWallets](https://mywallets.xyz) Backend @ Croco
 
 ## More
 * [RocketPunch](https://www.rocketpunch.com/@a28b03d0e2874b5c)
