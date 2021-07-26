@@ -1,6 +1,6 @@
 # 안녕하세요!
 I am..
-* code pooper
+* Geek
 
 ## Tech Stack
 <table>
