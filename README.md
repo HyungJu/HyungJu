@@ -1,6 +1,6 @@
 # 안녕하세요!
 I am..
-* Geek
+* Backend Enthusiast
 
 ## Tech Stack
 <table>
