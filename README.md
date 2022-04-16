@@ -68,3 +68,9 @@ RabbitMQ 메시징큐와 NestJS로 일일 5만명 이상의 사용자 요청을 
 
 ## Reach Me
 - `lehyungju@gmail.com`
+
+## Opensource Activities
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyungju&repo=readable-url&theme=radical)](https://github.com/hyungju/readable-url)
+
+## Github Stats
+![HyungJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungju&count_private=true&theme=radical)
