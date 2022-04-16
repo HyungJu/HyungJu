@@ -4,6 +4,7 @@
 
 - Backend Enthusiast
 - Software Maestro 13기 연수생
+- [LinkedIn](https://www.linkedin.com/in/%ED%98%95%EC%A3%BC-%EC%84%B1-3a72b6213/)
 
 ## Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -37,10 +38,10 @@ RabbitMQ 메시징큐와 NestJS로 일일 5만명 이상의 사용자 요청을 
 - Redis를 사용한 상태 관리 도입
 
 ### [팀 크레센도 포르테](https://crsd.team)
-50만명 이상의 사용자가 즐기고 있는 디스코드 챗봇을 만드는 팀 크레센도에서 결제 기능을 담당하는 FORTE 프로젝트에 참여했습니다.
-- 2020.07 ~ 2021.05 팀 크레센도 FORTE 부서장으로 활동하며 Laravel 기반의 FORTE 프로젝트를 개발, 유지보수 했습니다.
-- Unit Test를 통해 PG사와의 연동 로직을 테스트 하는 코드를 작성했습니다.
-- 보다 쉽고 빠르게 대량으로 보상을 지급하기 위한 쿠폰 서비스 개발에 참여했습니다.
+50만명 이상의 사용자가 즐기고 있는 디스코드 챗봇을 만드는 팀 크레센도에서 결제 기능을 담당하는 FORTE 프로젝트에 참여
+- 2020.07 ~ 2021.05 팀 크레센도 FORTE 부서장으로 활동하며 Laravel 기반의 FORTE 프로젝트를 개발, 유지보수
+- Unit Test를 통해 PG사와의 연동 로직을 테스트 하는 코드를 작성
+- 보다 쉽고 빠르게 대량으로 보상을 지급하기 위한 쿠폰 서비스 개발에 참여
 
 
 ### [경기고등학교 이공계동아리연합 동아리 통합 지원 시스템](https://kyunggi.club)
