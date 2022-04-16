@@ -67,3 +67,4 @@ RabbitMQ 메시징큐와 NestJS로 일일 5만명 이상의 사용자 요청을 
 
 
 ## Reach Me
+- `lehyungju@gmail.com`
