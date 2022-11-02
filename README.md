@@ -5,6 +5,7 @@
 - Backend Enthusiast
 - Software Maestro 13기 연수생
 - [LinkedIn](https://www.linkedin.com/in/%ED%98%95%EC%A3%BC-%EC%84%B1-3a72b6213/)
+- [Resume](https://github.com/HyungJu/resume)
 
 ## Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
