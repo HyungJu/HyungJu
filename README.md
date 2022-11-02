@@ -1,7 +1,3 @@
-<h1 align="center">Hello! I'm HyungJu 🥺</h1>
-
-## About Me
-
 - Backend Enthusiast
 - Software Maestro 13기 연수생
 - [LinkedIn](https://www.linkedin.com/in/%ED%98%95%EC%A3%BC-%EC%84%B1-3a72b6213/)
