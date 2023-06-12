@@ -1,7 +1,5 @@
 - Backend Enthusiast
-- Software Maestro 13기 연수생
 - [LinkedIn](https://www.linkedin.com/in/%ED%98%95%EC%A3%BC-%EC%84%B1-3a72b6213/)
-- [Resume](https://github.com/HyungJu/resume)
 
 ## Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -67,19 +65,6 @@ RabbitMQ 메시징큐와 NestJS로 일일 5만명 이상의 사용자 요청을 
 
 <img width="300px" src="https://user-images.githubusercontent.com/9509286/164890171-5fb61da8-82ed-474d-a61d-2be5954f7c6f.png"/>
   
-  
-</details>
-
-<details>
-  <summary>
-    <a href="https://kyunggi.club">🚌 경기고등학교 이공계동아리연합 동아리 통합 지원 시스템 </a>
-</summary>
-  
-  경기고등학교 이공계동아리연합 소속 동아리에 한 번에 지원할 수 있도록 하는 웹 앱입니다.
-  - 풀스택으로 프로젝트에 참여
-  - Laravel, Vue
-  - 경기고등학교에서 3년간 신입 부원들을 모집하는 솔루션으로 사용중
-<img width="1000px" src="https://user-images.githubusercontent.com/9509286/164890297-67cab073-f28b-4f46-a677-f43ef48b1301.png"/>
   
 </details>
 
